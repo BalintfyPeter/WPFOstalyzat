@@ -1,0 +1,5 @@
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\C#\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\WpfOsztalyzas.csproj.AssemblyReference.cache
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\C#\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\C#\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\App.g.cs
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\C#\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\WpfOsztalyzas_MarkupCompile.cache
+C:\Download\Peti\Iskola\Mechwart 11.B\Programozás\C#\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\WpfOsztalyzas_MarkupCompile.lref
